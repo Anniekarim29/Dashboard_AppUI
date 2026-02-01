@@ -6,6 +6,7 @@ import '../widgets/earnings_activity_chart.dart';
 import '../widgets/withdraw_button.dart';
 import '../widgets/transactions_section.dart';
 
+/// The main dashboard screen displaying earnings, activity charts, and transactions.
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({super.key});
 
